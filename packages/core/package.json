@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "bin": {
+    "iris-cli-dev": "bin/index.js"
+  },
   "files": [
     "lib"
   ],
@@ -22,5 +25,5 @@
   "dependencies": {
     "@iris-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "091587739fd45c9d2e4cf6b8381a65fe294f3bd0"
+  "gitHead": "ccf94cf110b0cdd3e8005c468cf308fb1e0c0636"
 }
