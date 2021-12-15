@@ -1,6 +1,6 @@
 {
   "name": "@iris-cli-dev/utils",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "> TODO: description",
   "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
   "homepage": "",
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "0fa490a71f89c4c5498fd32f258620adc837e533"
+  "gitHead": "7de708db32be153531b12e8a0deb739d915b5654"
 }

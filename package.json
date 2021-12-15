@@ -1,6 +1,6 @@
 {
   "name": "iris-cli-dev",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "iris-cli dev",
   "main": "index.js",
   "scripts": {
