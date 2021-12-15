@@ -1,6 +1,6 @@
 {
   "name": "@iris-cli-dev/utils",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
   "homepage": "",
@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
+    "registry": "https://registry.yarnpkg.com",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
