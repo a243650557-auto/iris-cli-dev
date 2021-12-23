@@ -1,0 +1,24 @@
+{
+  "name": "@iris-cli-dev-test/utils",
+  "version": "1.0.11",
+  "description": "> TODO: description",
+  "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com",
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "8264b669ab4a5561e47e258ab3147854aeb814bb"
+}
