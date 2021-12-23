@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@iris-cli-dev/utils": "^1.0.9"
+    "@iris-cli-dev/utils": "1.0.10"
   },
   "gitHead": "8264b669ab4a5561e47e258ab3147854aeb814bb"
 }
