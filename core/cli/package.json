@@ -1,6 +1,6 @@
 {
   "name": "@iris-cli-dev-test/core",
-  "version": "1.0.11",
+  "version": "1.0.10",
   "description": "iris-cli-dev core",
   "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
   "homepage": "",
@@ -27,9 +27,14 @@
     "@iris-cli-dev/log": "file:../../utils/log",
     "@iris-cli-dev/utils": "file:../../utils/utils",
     "colors": "^1.4.0",
+    "dotenv": "8.3.0",
     "import-local": "^3.0.3",
+    "minimist": "1.2.5",
     "npmlog": "^6.0.0",
-    "semver": "^7.3.5"
+    "path-exists": "^4.0.0",
+    "root-check": "1.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^2.0.0"
   },
   "gitHead": "8264b669ab4a5561e47e258ab3147854aeb814bb"
 }

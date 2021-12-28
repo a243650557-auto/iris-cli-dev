@@ -27,6 +27,11 @@
     "url": "https://github.com/a243650557-auto/iris-cli-dev/issues"
   },
   "dependencies": {
-    "npmlog": "^6.0.0"
+    "dotenv": "8.3.0",
+    "minimist": "1.2.5",
+    "npmlog": "^6.0.0",
+    "path-exists": "^5.0.0",
+    "root-check": "1.0.0",
+    "user-home": "^3.0.0"
   }
 }
