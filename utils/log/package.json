@@ -1,6 +1,6 @@
 {
   "name": "@iris-cli-dev/log",
-  "version": "1.0.15",
+  "version": "1.0.14",
   "description": "> TODO: description",
   "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
   "homepage": "https://github.com/a243650557-auto/iris-cli-dev#readme",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org"
   },
   "repository": {
     "type": "git",

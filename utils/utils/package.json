@@ -20,7 +20,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "bb2c46a71a49982f980a40241bf6596abdee0237",
+  "gitHead": "2b68a348e81c8af364824a3120b523ef5698dba0",
   "dependencies": {
     "dotenv": "8.3.0",
     "minimist": "1.2.5",
