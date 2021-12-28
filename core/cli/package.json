@@ -1,6 +1,6 @@
 {
   "name": "@iris-cli-dev-test/core",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "iris-cli-dev core",
   "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@iris-cli-dev/log": "^1.0.14",
+    "@iris-cli-dev/log": "^1.0.15",
     "@iris-cli-dev/utils": "file:../../utils/utils",
     "colors": "^1.4.0",
     "dotenv": "8.3.0",
