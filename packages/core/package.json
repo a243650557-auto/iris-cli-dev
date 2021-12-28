@@ -2,7 +2,7 @@
   "name": "@iris-cli-dev-test/core",
   "version": "1.0.10",
   "description": "iris-cli-dev core",
-  "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
+  "author": "Iris Lin <a284388824@gmail.com>",
   "homepage": "",
   "license": "MIT",
   "main": "lib/core.js",

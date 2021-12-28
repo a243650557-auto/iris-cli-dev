@@ -2,7 +2,7 @@
   "name": "@iris-cli-dev-test/core",
   "version": "1.0.17",
   "description": "iris-cli-dev core",
-  "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
+  "author": "Iris Lin <a284388824@gmail.com>",
   "homepage": "",
   "license": "MIT",
   "main": "lib/core.js",
@@ -36,5 +36,5 @@
     "semver": "^7.3.5",
     "user-home": "^2.0.0"
   },
-  "gitHead": "4de38dc388fdc7da3293f4a084229185a4c57a80"
+  "gitHead": "110828bb09fc7236455f609860ee5e5859da8e78"
 }

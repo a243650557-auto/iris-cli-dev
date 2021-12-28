@@ -2,7 +2,7 @@
   "name": "@iris-cli-dev/log",
   "version": "1.0.17",
   "description": "> TODO: description",
-  "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
+  "author": "Iris Lin <a284388824@gmail.com>",
   "homepage": "https://github.com/a243650557-auto/iris-cli-dev#readme",
   "license": "ISC",
   "main": "lib/index.js",
@@ -34,5 +34,5 @@
     "root-check": "1.0.0",
     "user-home": "^3.0.0"
   },
-  "gitHead": "4de38dc388fdc7da3293f4a084229185a4c57a80"
+  "gitHead": "110828bb09fc7236455f609860ee5e5859da8e78"
 }
