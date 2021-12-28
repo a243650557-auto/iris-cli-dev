@@ -77,6 +77,7 @@ function checkArgs() {
     process.env.LOG_LEVEL = 'info';
   }
   log.level = process.env.LOG_LEVEL;
+  console.log('test');
 }
 
 function checkEnv() {

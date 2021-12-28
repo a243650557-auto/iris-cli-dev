@@ -1,6 +1,6 @@
 {
   "name": "@iris-cli-dev/log",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "> TODO: description",
   "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
   "homepage": "https://github.com/a243650557-auto/iris-cli-dev#readme",
@@ -33,5 +33,6 @@
     "path-exists": "^5.0.0",
     "root-check": "1.0.0",
     "user-home": "^3.0.0"
-  }
+  },
+  "gitHead": "2e03327a66e8987eefbb4658993001c822c60f33"
 }

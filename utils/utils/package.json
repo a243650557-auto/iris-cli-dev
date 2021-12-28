@@ -1,6 +1,6 @@
 {
   "name": "@iris-cli-dev-test/utils",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "> TODO: description",
   "author": "Iris Lin <iris.x.lin@prudential.com.hk>",
   "homepage": "",
@@ -20,7 +20,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "8264b669ab4a5561e47e258ab3147854aeb814bb",
+  "gitHead": "2e03327a66e8987eefbb4658993001c822c60f33",
   "dependencies": {
     "dotenv": "8.3.0",
     "minimist": "1.2.5",
